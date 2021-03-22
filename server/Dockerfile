@@ -4,7 +4,7 @@ EXPOSE 5000
 
 WORKDIR /
 ADD ./core /core
-ADD ./server /servers
+ADD ./server /server
 
 ENV PYTHONPATH="$PYTHONPATH:/core"
 
