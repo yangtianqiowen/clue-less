@@ -11,3 +11,8 @@ Clue-less is a simplified version of the board game, Clue. There are the nine ro
 
 # Related resources
 https://www.youtube.com/watch?v=Q7Yc-WqwnSg
+
+# Steps to run the application
+
+1) Install Docker from https://www.docker.com/get-started
+2) Using the following command to build and run docker
