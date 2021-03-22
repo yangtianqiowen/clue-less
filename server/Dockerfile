@@ -1,6 +1,6 @@
 FROM python:alpine
 
-EXPOSE 5000
+EXPOSE 6000
 
 WORKDIR /
 ADD ./core /core

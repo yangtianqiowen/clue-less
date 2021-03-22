@@ -16,3 +16,10 @@ https://www.youtube.com/watch?v=Q7Yc-WqwnSg
 
 1) Install Docker from https://www.docker.com/get-started
 2) Using the following command to build and run docker
+    1. git clone https://github.com/yangtianqiowen/clue-less.git
+    2. cd clue-less
+    3. docker-compose build
+    4. docker-compose up
+3) Go to http://localhost:6000/api/db/create_database to create a database 
+4) Go to http://localhost:6000/api/setup_game to set up the MurderDeck in the database
+5) Go to http://localhost:6001/ to play your game 
