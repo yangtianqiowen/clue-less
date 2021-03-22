@@ -23,3 +23,4 @@ https://www.youtube.com/watch?v=Q7Yc-WqwnSg
 3) Go to http://localhost:5000/api/db/create_database to create a database 
 4) Go to http://localhost:5000/api/setup_game to set up the MurderDeck in the database
 5) Go to http://localhost:5001/ to play your game 
+6) Use http://localhost:8080/ to set up database
